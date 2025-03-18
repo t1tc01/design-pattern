@@ -245,6 +245,18 @@
         <mxCell id="5RvJ00vYP2rqRDzXkOa7-100" value="Pass through:&lt;div&gt;Exclude pass: Cũ: invoice amount -&amp;nbsp;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rotation=0;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-650" y="2900" width="190" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="5RvJ00vYP2rqRDzXkOa7-101" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5RvJ00vYP2rqRDzXkOa7-3" target="5RvJ00vYP2rqRDzXkOa7-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="340" as="sourcePoint" />
+            <mxPoint x="340" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RvJ00vYP2rqRDzXkOa7-102" value="view_sh_revenue_allocation_and_internal_transfer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="130" width="375" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5RvJ00vYP2rqRDzXkOa7-103" value="For select service provider" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="100" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
