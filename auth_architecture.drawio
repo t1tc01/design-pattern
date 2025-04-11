@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="PQr9PqsGU79pjMDatXMm">
-    <mxGraphModel dx="1785" dy="1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1980" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
           <mxGeometry y="60" width="190" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ajc7hb3r5Duzxjk8FhJC-43" value="Socket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="-10" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajc7hb3r5Duzxjk8FhJC-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajc7hb3r5Duzxjk8FhJC-26" target="ajc7hb3r5Duzxjk8FhJC-40">
           <mxGeometry relative="1" as="geometry" />
@@ -130,10 +130,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ajc7hb3r5Duzxjk8FhJC-50" value="GetTokenFromHeader()" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="960" y="470" width="160" height="80" as="geometry" />
+          <mxGeometry x="1000" y="470" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ajc7hb3r5Duzxjk8FhJC-53" value="Get field Authorization of header" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="520" width="130" height="30" as="geometry" />
+        <mxCell id="ajc7hb3r5Duzxjk8FhJC-53" value="Get field Authorization of header" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="520" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ajc7hb3r5Duzxjk8FhJC-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajc7hb3r5Duzxjk8FhJC-55" target="ajc7hb3r5Duzxjk8FhJC-62">
           <mxGeometry relative="1" as="geometry" />
@@ -188,6 +188,39 @@
         </mxCell>
         <mxCell id="ajc7hb3r5Duzxjk8FhJC-76" value="Controller Interface" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="40" y="-60" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ajc7hb3r5Duzxjk8FhJC-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#FF3333;" edge="1" parent="1" source="ajc7hb3r5Duzxjk8FhJC-71" target="ajc7hb3r5Duzxjk8FhJC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajc7hb3r5Duzxjk8FhJC-83" value="&lt;div style=&quot;color: rgb(201, 209, 217); background-color: rgb(13, 17, 23); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #fdac54;&quot;&gt;Permission&lt;/span&gt; &lt;span style=&quot;color: #ec8e2c;&quot;&gt;func&lt;/span&gt;(&lt;span style=&quot;color: #ec8e2c;&quot;&gt;*&lt;/span&gt;&lt;span style=&quot;color: #fdac54;&quot;&gt;model&lt;/span&gt;.&lt;span style=&quot;color: #fdac54;&quot;&gt;User&lt;/span&gt;, []&lt;span style=&quot;color: #fdac54;&quot;&gt;dto&lt;/span&gt;.&lt;span style=&quot;color: #fdac54;&quot;&gt;UserPermission&lt;/span&gt;, &lt;span style=&quot;color: #ec8e2c;&quot;&gt;*&lt;/span&gt;&lt;span style=&quot;color: #fdac54;&quot;&gt;gin&lt;/span&gt;.&lt;span style=&quot;color: #fdac54;&quot;&gt;Context&lt;/span&gt;) (&lt;span style=&quot;color: #ec8e2c;&quot;&gt;bool&lt;/span&gt;, &lt;span style=&quot;color: #ec8e2c;&quot;&gt;error&lt;/span&gt;)&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-300" width="700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ajc7hb3r5Duzxjk8FhJC-85" value="&lt;div style=&quot;color: rgb(201, 209, 217); background-color: rgb(13, 17, 23); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #ec8e2c;&quot;&gt;type&lt;/span&gt; &lt;span style=&quot;color: #fdac54;&quot;&gt;QuerySet&lt;/span&gt; &lt;span style=&quot;color: #ec8e2c;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #ec8e2c;&quot;&gt;func&lt;/span&gt;(&lt;span style=&quot;color: #fdac54;&quot;&gt;db&lt;/span&gt; &lt;span style=&quot;color: #ec8e2c;&quot;&gt;*&lt;/span&gt;&lt;span style=&quot;color: #fdac54;&quot;&gt;gorm&lt;/span&gt;.&lt;span style=&quot;color: #fdac54;&quot;&gt;DB&lt;/span&gt;) &lt;span style=&quot;color: #ec8e2c;&quot;&gt;*&lt;/span&gt;&lt;span style=&quot;color: #fdac54;&quot;&gt;gorm&lt;/span&gt;.&lt;span style=&quot;color: #fdac54;&quot;&gt;DB&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-230" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ajc7hb3r5Duzxjk8FhJC-88" value="&lt;div style=&quot;color: rgb(201, 209, 217); background-color: rgb(13, 17, 23); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #ec8e2c;&quot;&gt;type&lt;/span&gt; &lt;span style=&quot;color: #fdac54;&quot;&gt;FilterBackend&lt;/span&gt; &lt;span style=&quot;color: #ec8e2c;&quot;&gt;func&lt;/span&gt;(&lt;span style=&quot;color: #ec8e2c;&quot;&gt;*&lt;/span&gt;&lt;span style=&quot;color: #fdac54;&quot;&gt;model&lt;/span&gt;.&lt;span style=&quot;color: #fdac54;&quot;&gt;User&lt;/span&gt;, []&lt;span style=&quot;color: #fdac54;&quot;&gt;dto&lt;/span&gt;.&lt;span style=&quot;color: #fdac54;&quot;&gt;UserPermission&lt;/span&gt;, &lt;span style=&quot;color: #ec8e2c;&quot;&gt;*&lt;/span&gt;&lt;span style=&quot;color: #fdac54;&quot;&gt;gin&lt;/span&gt;.&lt;span style=&quot;color: #fdac54;&quot;&gt;Context&lt;/span&gt;) &lt;span style=&quot;color: #fdac54;&quot;&gt;QuerySet&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-160" width="720" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ajc7hb3r5Duzxjk8FhJC-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajc7hb3r5Duzxjk8FhJC-58" target="ajc7hb3r5Duzxjk8FhJC-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajc7hb3r5Duzxjk8FhJC-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajc7hb3r5Duzxjk8FhJC-59" target="ajc7hb3r5Duzxjk8FhJC-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajc7hb3r5Duzxjk8FhJC-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajc7hb3r5Duzxjk8FhJC-92" target="ajc7hb3r5Duzxjk8FhJC-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajc7hb3r5Duzxjk8FhJC-92" value="payload" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="499" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ajc7hb3r5Duzxjk8FhJC-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajc7hb3r5Duzxjk8FhJC-17" target="ajc7hb3r5Duzxjk8FhJC-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajc7hb3r5Duzxjk8FhJC-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajc7hb3r5Duzxjk8FhJC-97" target="ajc7hb3r5Duzxjk8FhJC-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ajc7hb3r5Duzxjk8FhJC-97" value="veryfyToken(token)" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="499" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
