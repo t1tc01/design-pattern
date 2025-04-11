@@ -27,8 +27,11 @@
         <mxCell id="ajc7hb3r5Duzxjk8FhJC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajc7hb3r5Duzxjk8FhJC-3" target="ajc7hb3r5Duzxjk8FhJC-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ajc7hb3r5Duzxjk8FhJC-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajc7hb3r5Duzxjk8FhJC-3" target="ajc7hb3r5Duzxjk8FhJC-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ajc7hb3r5Duzxjk8FhJC-3" value="server&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-260" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajc7hb3r5Duzxjk8FhJC-7" value="authFactory" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="60" height="30" as="geometry" />
@@ -121,7 +124,7 @@
           <mxGeometry y="60" width="190" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ajc7hb3r5Duzxjk8FhJC-43" value="Socket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajc7hb3r5Duzxjk8FhJC-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ajc7hb3r5Duzxjk8FhJC-26" target="ajc7hb3r5Duzxjk8FhJC-40">
           <mxGeometry relative="1" as="geometry" />
