@@ -232,6 +232,20 @@
         <mxCell id="tfSceVbPBaqAiTwcqEkl-39" value="config&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1120" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tfSceVbPBaqAiTwcqEkl-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tfSceVbPBaqAiTwcqEkl-40" target="tfSceVbPBaqAiTwcqEkl-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tfSceVbPBaqAiTwcqEkl-40" value="Trace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="https://langfuse.com/docs/sdk/typescript/guide" link="https://langfuse.com/docs/sdk/typescript/guide" id="tfSceVbPBaqAiTwcqEkl-41">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="-330" y="1950" width="280" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tfSceVbPBaqAiTwcqEkl-42" value="generation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
