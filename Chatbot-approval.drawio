@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="27.0.8">
   <diagram name="Page-1" id="9ow6eN2219G_9W0T1Nan">
-    <mxGraphModel dx="1280" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1301" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,6 +153,12 @@
         <mxCell id="tfSceVbPBaqAiTwcqEkl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tfSceVbPBaqAiTwcqEkl-5" target="tfSceVbPBaqAiTwcqEkl-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tfSceVbPBaqAiTwcqEkl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tfSceVbPBaqAiTwcqEkl-5" target="tfSceVbPBaqAiTwcqEkl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tfSceVbPBaqAiTwcqEkl-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tfSceVbPBaqAiTwcqEkl-5" target="tfSceVbPBaqAiTwcqEkl-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tfSceVbPBaqAiTwcqEkl-5" value="BaseTrace" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1240" width="140" height="234" as="geometry" />
         </mxCell>
@@ -181,9 +187,32 @@
           <mxGeometry y="208" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="tfSceVbPBaqAiTwcqEkl-15" value="&lt;b&gt;RoutingFunctionTrace&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="418.65" y="1380" width="140" height="52" as="geometry" />
+          <mxGeometry x="590" y="1530" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="tfSceVbPBaqAiTwcqEkl-18" value="+ super(TraceParams)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tfSceVbPBaqAiTwcqEkl-15">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tfSceVbPBaqAiTwcqEkl-21" value="Greeting trace" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1530" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tfSceVbPBaqAiTwcqEkl-22" value="+ super(TraceParams)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tfSceVbPBaqAiTwcqEkl-21">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tfSceVbPBaqAiTwcqEkl-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="tfSceVbPBaqAiTwcqEkl-21">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="tfSceVbPBaqAiTwcqEkl-26" value="add: tags and name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1590" width="130" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="from core.langfuse.traces.base import BaseTrace&#xa;from internal.common.schemas.langfuse_trace import TraceParams&#xa;&#xa;&#xa;class GreetingTrace(BaseTrace):&#xa;    def __init__(self, params: TraceParams):&#xa;        super().__init__(params.user_id, params.user_email, params.session_id)&#xa;        self.name = &quot;greeting&quot;&#xa;        self.tags.append(self.name)" link="from core.langfuse.traces.base import BaseTrace&#xa;from internal.common.schemas.langfuse_trace import TraceParams&#xa;&#xa;&#xa;class GreetingTrace(BaseTrace):&#xa;    def __init__(self, params: TraceParams):&#xa;        super().__init__(params.user_id, params.user_email, params.session_id)&#xa;        self.name = &quot;greeting&quot;&#xa;        self.tags.append(self.name)" id="tfSceVbPBaqAiTwcqEkl-27">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="330" y="1630" width="450" height="150" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tfSceVbPBaqAiTwcqEkl-28" value="&lt;b&gt;Other trace&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1530" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="tfSceVbPBaqAiTwcqEkl-30" value="+ super(TraceParams)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="tfSceVbPBaqAiTwcqEkl-28">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
