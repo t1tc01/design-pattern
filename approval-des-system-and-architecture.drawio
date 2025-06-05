@@ -387,7 +387,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-44" value="POST Create request API&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="6530" width="90" height="70" as="geometry" />
+          <mxGeometry x="-1150" y="6520" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-48" target="o88KBuHz8qy1xL3tPggr-15">
           <mxGeometry relative="1" as="geometry" />
@@ -399,19 +399,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-51" value="Create" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="6560" width="120" height="80" as="geometry" />
+          <mxGeometry x="-980" y="6570" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-53" target="o88KBuHz8qy1xL3tPggr-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-53" value="Request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="6620" width="120" height="60" as="geometry" />
+          <mxGeometry x="-800" y="6630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-56" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Create template context (sub work-flow)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1380" y="6520" width="230" height="100" as="geometry" />
+          <mxGeometry x="-1390" y="6510" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-58" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Action on workflow&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1440" y="5870" width="230" height="45" as="geometry" />
+          <mxGeometry x="-1380" y="5862.5" width="230" height="45" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-60" target="o88KBuHz8qy1xL3tPggr-61">
           <mxGeometry relative="1" as="geometry" />
@@ -441,7 +441,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-68" value="workflow_context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="6650" width="120" height="60" as="geometry" />
+          <mxGeometry x="-560" y="6610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-70" target="o88KBuHz8qy1xL3tPggr-72">
           <mxGeometry relative="1" as="geometry" />
@@ -467,7 +467,7 @@
           <mxGeometry x="-230" y="6425" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-81" value="Create node follow define of original workflow and body data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="6930" width="120" height="80" as="geometry" />
+          <mxGeometry x="-460" y="6910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-70" target="o88KBuHz8qy1xL3tPggr-82">
           <mxGeometry relative="1" as="geometry">
@@ -485,6 +485,17 @@
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-85" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Create workflow context (no sub work-flow)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1505" y="5465" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-87" target="o88KBuHz8qy1xL3tPggr-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1090" y="5220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-87" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Create a default workflow&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1510" y="5170" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-91" value="Apply for categories dont be assign any workflow" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="5170" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
