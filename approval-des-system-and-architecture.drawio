@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="27.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="fUC6dL2m5zsGTrD6ofMB">
-    <mxGraphModel dx="3125" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3054" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,47 +243,65 @@
         <mxCell id="BVL4bL25nlAPJT_1eoTr-122" value="condition" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="4190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-1" value="Category có thể k có template" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-1" value="Category có thể k có template" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="4760" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-2" value="Nếu tạo category mà k có template sẽ ăn theo 1 cái mặc định" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-2" value="Nếu tạo category mà k có template sẽ ăn theo 1 cái mặc định" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="4790" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j217Ic_xIZPWjwwswHKO-3" target="j217Ic_xIZPWjwwswHKO-4">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j217Ic_xIZPWjwwswHKO-3" target="j217Ic_xIZPWjwwswHKO-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-3" value="worflow context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-3" value="worflow context" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-600" y="5480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j217Ic_xIZPWjwwswHKO-4" target="j217Ic_xIZPWjwwswHKO-5">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j217Ic_xIZPWjwwswHKO-4" target="j217Ic_xIZPWjwwswHKO-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-4" value="steps context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-4" value="steps context" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="5480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-5" value="effect context&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-5" value="effect context&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="85" y="5480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;metadata_step_context&lt;/h1&gt;&lt;div&gt;{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;original_node_id&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;original_node_meta_data {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;nodeId,&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;userId&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;metadata_step_context&lt;/h1&gt;&lt;div&gt;{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;original_node_id&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;original_node_meta_data {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;nodeId,&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;userId&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-320" y="5637.5" width="280" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;metadata_effect_context&lt;/h1&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;original_edge_data: {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;action&lt;/span&gt;: {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;...&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;status: {&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;....&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;condition&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;metadata_effect_context&lt;/h1&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;original_edge_data: {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;action&lt;/span&gt;: {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;...&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;status: {&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;....&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;condition&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="65" y="5610" width="330" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j217Ic_xIZPWjwwswHKO-13" target="j217Ic_xIZPWjwwswHKO-3">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="j217Ic_xIZPWjwwswHKO-13" target="j217Ic_xIZPWjwwswHKO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j217Ic_xIZPWjwwswHKO-13" target="j217Ic_xIZPWjwwswHKO-4">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="j217Ic_xIZPWjwwswHKO-13" target="j217Ic_xIZPWjwwswHKO-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j217Ic_xIZPWjwwswHKO-13" target="j217Ic_xIZPWjwwswHKO-5">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="j217Ic_xIZPWjwwswHKO-13" target="j217Ic_xIZPWjwwswHKO-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-13" value="Get worflow by category" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-13" value="Get worflow by category" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="5290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="j217Ic_xIZPWjwwswHKO-19" value="from original effect -&amp;gt; create step_context&lt;div&gt;reference through original_node_id&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;previous_id, next_id = steps context id&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="j217Ic_xIZPWjwwswHKO-19" value="from original effect -&amp;gt; create step_context&lt;div&gt;reference through original_node_id&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;previous_id, next_id = steps context id&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="5360" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-1" target="o88KBuHz8qy1xL3tPggr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-1" value="workflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="5080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-2" target="o88KBuHz8qy1xL3tPggr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-2" value="step" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="5080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-4" value="effect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="5080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j217Ic_xIZPWjwwswHKO-13" target="o88KBuHz8qy1xL3tPggr-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
