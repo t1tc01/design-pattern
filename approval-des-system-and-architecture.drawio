@@ -407,8 +407,8 @@
         <mxCell id="o88KBuHz8qy1xL3tPggr-53" value="Request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="6620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o88KBuHz8qy1xL3tPggr-56" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Create template have special node (sub work-flow)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1470" y="6400" width="230" height="100" as="geometry" />
+        <mxCell id="o88KBuHz8qy1xL3tPggr-56" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Create template context (sub work-flow)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1380" y="6520" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-58" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Action on workflow&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1440" y="5870" width="230" height="45" as="geometry" />
@@ -482,6 +482,9 @@
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-82" value="in case: requirement just define sub-workflow is line&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-440" y="6850" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-85" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Create workflow context (no sub work-flow)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1505" y="5465" width="230" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
