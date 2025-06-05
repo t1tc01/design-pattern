@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="fUC6dL2m5zsGTrD6ofMB">
-    <mxGraphModel dx="3054" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3904" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -492,10 +492,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-87" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Create a default workflow&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1510" y="5170" width="230" height="100" as="geometry" />
+          <mxGeometry x="-1490" y="5060" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-91" value="Apply for categories dont be assign any workflow" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1110" y="5170" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1040" y="5160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-94" target="o88KBuHz8qy1xL3tPggr-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1670" y="5250" as="sourcePoint" />
+            <mxPoint x="-1020" y="5330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-98" value="If exist" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o88KBuHz8qy1xL3tPggr-97">
+          <mxGeometry x="-0.326" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-94" value="Create Category" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1830" y="5160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.39;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-94" target="o88KBuHz8qy1xL3tPggr-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o88KBuHz8qy1xL3tPggr-96" value="if not exist default" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o88KBuHz8qy1xL3tPggr-95">
+          <mxGeometry x="-0.1926" y="-2" relative="1" as="geometry">
+            <mxPoint y="-27" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
