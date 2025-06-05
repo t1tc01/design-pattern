@@ -265,10 +265,10 @@
           <mxGeometry x="85" y="5480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j217Ic_xIZPWjwwswHKO-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;metadata_step_context&lt;/h1&gt;&lt;div&gt;{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;original_node_id&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;original_node_meta_data {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;nodeId,&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;userId&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="5550" width="280" height="215" as="geometry" />
+          <mxGeometry x="-270" y="5570" width="280" height="215" as="geometry" />
         </mxCell>
         <mxCell id="j217Ic_xIZPWjwwswHKO-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;metadata_effect_context&lt;/h1&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;original_edge_data: {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;action&lt;/span&gt;: {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;...&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;status: {&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;....&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;condition&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="85" y="5550" width="330" height="270" as="geometry" />
+          <mxGeometry x="110" y="5555" width="330" height="270" as="geometry" />
         </mxCell>
         <mxCell id="j217Ic_xIZPWjwwswHKO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="j217Ic_xIZPWjwwswHKO-13" target="j217Ic_xIZPWjwwswHKO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -280,25 +280,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j217Ic_xIZPWjwwswHKO-13" value="Get worflow by category" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="5290" width="120" height="80" as="geometry" />
+          <mxGeometry x="-250" y="5340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j217Ic_xIZPWjwwswHKO-19" value="from original effect -&amp;gt; create step_context&lt;div&gt;reference through original_node_id&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;previous_id, next_id = steps context id&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="150" y="5360" width="240" height="60" as="geometry" />
+          <mxGeometry x="170" y="5380" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-1" target="o88KBuHz8qy1xL3tPggr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-1" value="workflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="5080" width="120" height="60" as="geometry" />
+          <mxGeometry x="-250" y="5120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-2" target="o88KBuHz8qy1xL3tPggr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-2" value="step" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="5080" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="5120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-4" value="effect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="5080" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="5140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j217Ic_xIZPWjwwswHKO-13" target="o88KBuHz8qy1xL3tPggr-1">
           <mxGeometry relative="1" as="geometry" />
@@ -387,7 +387,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-44" value="POST Create request API&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1150" y="6520" width="90" height="70" as="geometry" />
+          <mxGeometry x="-1170" y="6510" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-48" target="o88KBuHz8qy1xL3tPggr-15">
           <mxGeometry relative="1" as="geometry" />
@@ -399,7 +399,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-51" value="Create" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="6570" width="120" height="80" as="geometry" />
+          <mxGeometry x="-970" y="6580" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-53" target="o88KBuHz8qy1xL3tPggr-68">
           <mxGeometry relative="1" as="geometry" />
@@ -408,7 +408,7 @@
           <mxGeometry x="-800" y="6630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-56" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Create template context (sub work-flow)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1390" y="6510" width="230" height="100" as="geometry" />
+          <mxGeometry x="-1400" y="6520" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-58" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Action on workflow&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1380" y="5862.5" width="230" height="45" as="geometry" />
@@ -420,7 +420,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-60" value="workflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="6320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-680" y="6350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-61" target="o88KBuHz8qy1xL3tPggr-70">
           <mxGeometry relative="1" as="geometry" />
@@ -435,7 +435,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-63" value="effect (edge)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="6320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-70" y="6340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-68" target="o88KBuHz8qy1xL3tPggr-70">
           <mxGeometry relative="1" as="geometry" />
@@ -467,7 +467,7 @@
           <mxGeometry x="-230" y="6425" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-81" value="Create node follow define of original workflow and body data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="6910" width="120" height="80" as="geometry" />
+          <mxGeometry x="-520" y="6920" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o88KBuHz8qy1xL3tPggr-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o88KBuHz8qy1xL3tPggr-70" target="o88KBuHz8qy1xL3tPggr-82">
           <mxGeometry relative="1" as="geometry">
