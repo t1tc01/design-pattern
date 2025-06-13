@@ -730,7 +730,7 @@
           <mxGeometry x="-1055" y="8088" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JIYedt_wZuTwdSDcAwmq-88" value="Tôi có 1 đồ thị,&lt;br&gt;tôi có 1 luồng chính (đánh các node là main Step)&lt;br&gt;Đồ thị có những node cuối là End, và Nhiều node có thể đến 1 node cuối, node End không thể nối đi đâu.&lt;br&gt;Đồ thị luôn bắt đầu bằng node Start. &lt;br&gt;Node start chỉ nối đến 1 node sau nó. và start và node đó sẽ bắt đầu luồng chính&lt;br&gt;mỗi luồng kết thúc bằng 1 node End. &lt;br&gt;&lt;br&gt;Giả sử tôi là 1 người đi trong đồ thị, những node tôi đi qua được đánh dấu là isPassed&lt;br&gt;Hãy cho tôi giải pháp để: Cho một node trong đồ thị (giả sử là node tôi đang đứng), hãy xác định một subgraph đầy đủ từ các node đã isPassed (là path) đến End node với điều kiện sau đây:&lt;br&gt;* Nếu node được cho đc đánh dấu là main step, hãy cho tôi toàn bộ main step sau đó &lt;br&gt;* nếu node được cho không phải main step, hãy cho tôi đường đi từ node đó đến node có rẽ nhiều nhánh " style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1890" y="8620" width="410" height="330" as="geometry" />
+          <mxGeometry x="-1880" y="8630" width="410" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
