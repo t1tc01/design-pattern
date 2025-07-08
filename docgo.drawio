@@ -16,6 +16,9 @@
         <mxCell id="E24_1bioBRznkQB1SDZh-5" value="I have an idea to start an app like require above. Let recommend for me tech stack, what i need to fix in that requirement and what i can be implement in next phase." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1250" y="990" width="900" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="E24_1bioBRznkQB1SDZh-6" value="Okay now let me generate prompt for Design AI can be design, with Blue pastel is main color, logo is an cute animal ? can u recommend me about logo with meaningful ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="1038" width="920" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
