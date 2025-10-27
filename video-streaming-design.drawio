@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="cagTb0hPdPcRIWWmQ7pS">
-    <mxGraphModel dx="1031" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3389" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,6 +234,17 @@
         </mxCell>
         <mxCell id="m_6WRML65mC8xDF_TJw3-80" value="So we must be handle multiple pipeline when a video upload&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1860" y="5260" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m_6WRML65mC8xDF_TJw3-82" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="495" y="1245.5" as="sourcePoint" />
+            <mxPoint x="1970" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="1200" />
+              <mxPoint x="160" y="-110" />
+              <mxPoint x="620" y="1150" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
