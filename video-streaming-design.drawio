@@ -223,7 +223,7 @@
         <mxCell id="m_6WRML65mC8xDF_TJw3-76" value="Temporary storage" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1830" y="4990" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m_6WRML65mC8xDF_TJw3-77" value="Multiple storage systems are used here. &lt;br&gt;The choice of storage system depends on factors like data type, data size, access frequency, data life span, etc. &lt;br&gt;For instance, metadata is frequentlyaccessed by workers, and the data size is usually small. Thus, caching metadata in memory is a good idea. For video or audio data, we put them in blob storage. Data in temporary storage is freed up once the corresponding video processing is complete." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m_6WRML65mC8xDF_TJw3-77" value="Multiple storage systems are used here. &lt;br&gt;The choice of storage system depends on factors like data type, data size, access frequency, data life span, etc. &lt;br&gt;For instance&lt;b&gt;, metadata is frequently accessed by workers, and the data size is usually small. Thus, caching metadata in memory is a good idea.&lt;/b&gt; For video or audio data, we put them in blob storage. Data in temporary storage &lt;b&gt;is freed up once the corresponding video processing is complete.&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1835" y="5010" width="560" height="110" as="geometry" />
         </mxCell>
       </root>
