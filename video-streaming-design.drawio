@@ -90,7 +90,7 @@
         </mxCell>
         <mxCell id="m_6WRML65mC8xDF_TJw3-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1760" y="5270" as="sourcePoint" />
+            <mxPoint x="1760" y="5430" as="sourcePoint" />
             <mxPoint x="1760" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -225,6 +225,15 @@
         </mxCell>
         <mxCell id="m_6WRML65mC8xDF_TJw3-77" value="Multiple storage systems are used here. &lt;br&gt;The choice of storage system depends on factors like data type, data size, access frequency, data life span, etc. &lt;br&gt;For instance&lt;b&gt;, metadata is frequently accessed by workers, and the data size is usually small. Thus, caching metadata in memory is a good idea.&lt;/b&gt; For video or audio data, we put them in blob storage. Data in temporary storage &lt;b&gt;is freed up once the corresponding video processing is complete.&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1835" y="5010" width="560" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m_6WRML65mC8xDF_TJw3-78" value="Encoded video" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1830" y="5160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m_6WRML65mC8xDF_TJw3-79" value="Encoded video is the final output of the encoding pipeline. Here is an example of the output:&#xa;funny_720p.mp4 ." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="5190" width="520" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m_6WRML65mC8xDF_TJw3-80" value="So we must be handle multiple pipeline when a video upload&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="5260" width="280" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
